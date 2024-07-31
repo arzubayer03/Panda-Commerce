@@ -22,3 +22,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat-watch{
+    background-color: orange;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-bag{
+    background-color: orchid;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-shoes{
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.catagory-img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    margin: 10px;
+}
